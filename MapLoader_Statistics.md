@@ -7,14 +7,14 @@ The information is gathered by checking "Properties" on MapBundles files & Asset
 
 Author -> Map alphabetical sorting.
 | Author           | Map                         | Version | MapBundle | Uncompressed | Additional notes                                                                        |
-| ---------------- | --------------------------- | ------- | --------- | ------------ | --------------------------------------------------------------------------------------- |
+| ---------------- | --------------------------- | ------- | --------- | ------------ | ---------------------=----------------------------------------------------------------- |
 | Bay              | Medieval Springs            | 0.4.3   | 19MB      | 199MB        | Unity: 2022.3.62f2 / Misc: 3.02KB / Bad light rendering optimisation tanks performance. |
 | Bippuit          | Dragon Roost Island         | 1.0.1   | 14.9MB    | 16.1MB       | Unity: 2021.3.16f1 / Misc: 5.79KB                                                       |
 | CuddlyDragon     | Effold Terrace FFA          | 1.0.0   | 3.48MB    | 8.79MB       | Unity: 2021.3.16f1 / Misc: 2.13KB                                                       |
 | Dipi11           | Darnassus                   | 4.1.0   | 121MB     | 594MB        | Unity: 2022.3.62f2                                                                      |
 | Dipi11           | Ironforge                   | 2.1.2   | 99.5MB    | 1.94GB       | Unity: 2022.3.62f2                                                                      |
-| Dipi11           | Silvermoon                  | 1.0.1   | 158MB     | 1.67GB       | Unity: 2022.3.62f2                                                                      |
-| DuneRaisin       | Vore Hotel                  | 0.0.15  | 3.79MB    | 25.6MB       | Unity: 2022.3.62f2 / Misc: 3.73KB / Incomplete export.                                  |
+| Dipi11           | Silvermoon                  | 2.0.0   | 168MB     | 1.77GB       | Unity: 2022.3.62f2                                                                      |
+| DuneRaisin       | Vore Hotel                  | 0.0.15  | 3.79MB    | 25.6MB       | Unity: 2022.3.62f2 / Misc: 3.73KB                                                       |
 | FireNoobsta      | BeachBowl Map               | 1.0.0   | 3.34MB    | 10.3MB       | Unity: 2021.3.16f1 / Misc: 2KB                                                          |
 | FireNoobsta      | Bobomb Battlefield Map      | 1.1.0   | 4.53MB    | 6.21MB       | Unity: 2021.3.16f1 / Misc: 187KB                                                        |
 | FireNoobsta      | Honey Hive Galaxy Map       | 1.0.0   | 4.23MB    | 37.3MB       | Unity: 2021.3.16f1 / Misc: 30.4KB                                                       |
@@ -24,6 +24,7 @@ Author -> Map alphabetical sorting.
 | FishyRegenPotion | Questlyss                   | 1.0.4   | 9.35MB    | 46.8MB       | Unity: 2021.3.16f1 / Misc: 28.9KB                                                       |
 | Fluff            | Fluff Springs               | 1.0.0   | 2.35MB    | 12.7MB       | Unity: 2021.3.16f1 / Misc: 2.29KB                                                       |
 | Glass_Cannon     | MC Weird Isle               | 6.0.2   | 22.9MB    | 1.02GB       | Unity: 2022.3.62f2 / Misc: 2.16KB                                                       |
+| Glass_Cannon     | Mirror Tests                | 1.0.1   | 101KB     | 724KB        | Unity: 2022.3.62f2 / Misc: 1.8KB                                                        |
 | Lola             | Crescent Cove               | 1.1.3   | 4.48MB    | 55.1MB       | Unity: 2022.3.62f2                                                                      |
 | MaploaderSociety | Atlyss FlyBy Castle         | 2.0.1   | 3.28MB    | 4.87MB       | Unity: 2022.3.62f2                                                                      |
 | Mintsmoker       | Slutsanctum                 | 0.5.91  | 27.2MB    | 147MB        | Unity: 2022.3.62f2                                                                      |
@@ -42,6 +43,6 @@ Author -> Map alphabetical sorting.
 | ZenFishes        | Fray Fields Social          | 1.3.2   | 64.2MB    | 154MB        | Unity: 2022.3.62f2                                                                      |
 | ZenFishes        | Green Screen World          | 1.0.0   | 404KB     | 2.5MB        | Unity: 2022.3.62f2                                                                      |
 | ZenFishes        | Starlight Magistics Academy | 1.7.5   | 19MB      | 57.6MB       | Unity: 2022.3.62f2                                                                      |
-| ZenFishes        | The Rise of PoonVille       | 1.1.0   | 31MB      | 124MB        | Unity: 2022.3.62f2                                                                      |
+| ZenFishes        | The Rise of PoonVille       | 2.1.0   | 51.2MB    | 274MB        | Unity: 2022.3.62f2                                                                      |
 | ZweiHanda        | Distant Memory              | 0.2.4   | 9.30MB    | 19.1MB       | Unity: 2022.3.62f2                                                                      |
 | Author           | Map                         | Version | MapBundle | Uncompressed | Additional notes                                                                        |

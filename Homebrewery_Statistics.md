@@ -20,7 +20,7 @@ Author -> Pack alphabetical sorting.
 | Beeeeeeeeeeeeeeeees  | Special Spotted Skin              | 1.7.0    | 32.7KB   | 5     | 3       |                                                                               |
 | BigCBlu              | Anime Hair Pack                   | 1.5.6    | 3.55MB   | 6     | 7       |                                                                               |
 | BigCBlu              | Fart Gun                          | 1.0.1    | 390KB    | 5     | 6       |                                                                               |
-| BigCBlu              | IncredibleGassyOutfit             | 1.1.1    | 33.2KB   | 8     | 4       |                                                                               |
+| BigCBlu              | IncredibleGassyOutfit             | 1.1.2    | 31.1KB   | 8     | 4       |                                                                               |
 | BigCBlu              | Paintinator                       | 1.0.3    | 63.6KB   | 6     | 6       |                                                                               |
 | BigCBlu              | SansTextures                      | 1.0.0    | 68.1KB   | 12    | 9       |                                                                               |
 | BigCBlu              | True Legendary Hero Bat           | 3.1.0    | 1.91MB   | 35    | 24      |                                                                               |
@@ -56,9 +56,9 @@ Author -> Pack alphabetical sorting.
 | CSD                  | DVG                               | 1.0.1    | 32.1KB   | 11    | 5       |                                                                               |
 | CursedEquinox        | More Eyes                         | 1.0.0    | 103KB    | 35    | 14      |                                                                               |
 | cvrr                 | Currys Fiery n Spicy Pack         | 1.2.5    | 94.8KB   | 15    | 9       |                                                                               |
-| Deimoa               | Deimoa Decora                     | 1.2.5    | 3.35MB   | 259   | 68      |                                                                               |
+| Deimoa               | Deimoa Decora                     | 1.2.6    | 3.63MB   | 292   | 74      |                                                                               |
 | Dipi11               | Azerothian Equipment              | 1.10.0   | 32.0MB   | 857   | 361     |                                                                               |
-| Dipi11               | Azerothian Firearms               | 0.1.0    | 1.04MB   | 35    | 16      |                                                                               |
+| Dipi11               | Azerothian Firearms               | 0.2.0    | 1.92MB   | 70    | 33      |                                                                               |
 | dn12                 | Random Skins                      | 1.3.8    | 16.4MB   | 1684  | 392     |                                                                               |
 | dn12                 | Symbiote Suit                     | 1.0.9    | 1.53MB   | 213   | 63      |                                                                               |
 | Epurdicorp           | Objectifies                       | 1.2.1    | 927KB    | 106   | 27      |                                                                               |
@@ -96,7 +96,7 @@ Author -> Pack alphabetical sorting.
 | Guachenim            | SallyingsNSFW                     | 1.0.2    | 211KB    | 50    | 12      |                                                                               |
 | HazletinAfton        | Firelink Greatsword               | 1.0.6    | 0.97MB   | 54    | 31      |                                                                               |
 | HearthForged         | Diaper Change                     | 1.0.0    | 7.52KB   | 3     | 2       |                                                                               |
-| Hoot                 | Noint Stuffs                      | 1.5.1    | 486KB    | 53    | 19      |                                                                               |
+| Hoot                 | Noint Stuffs                      | 1.5.3    | 487KB    | 53    | 19      |                                                                               |
 | HyperTem             | Die Hard                          | 1.0.5    | 45.8KB   | 16    | 9       |                                                                               |
 | insidiousspecialk    | Sus Skins And Faces               | 1.1.1    | 305KB    | 16    | 12      |                                                                               |
 | JayHog1992           | Male Yordle Pack                  | 1.0.0    | 63.4KB   | 25    | 16      |                                                                               |
@@ -106,7 +106,7 @@ Author -> Pack alphabetical sorting.
 | Kita                 | Kits Bits                         | 1.2.9    | 52.8MB   | 156   | 74      | Comes with a folder with 26 files of 10.6MB garbage data.                     |
 | KitKat               | PandaPack                         | 1.2.1    | 242KB    | 48    | 13      |                                                                               |
 | KP_Gaming            | Fanciful Assortment               | 1.4.20   | 16.1MB   | 495   | 206     |                                                                               |
-| KP_Gaming            | Kill Buttons                      | 1.1.2    | 6.73MB   | 96    | 35      |                                                                               |
+| KP_Gaming            | Kill Buttons                      | 1.2.0    | 2.90MB   | 126   | 45      |                                                                               |
 | KP_Gaming            | One Piece Pack                    | 1.2.1    | 22.5MB   | 95    | 52      |                                                                               |
 | KP_Gaming            | Plush Pals                        | 1.3.0    | 117KB    | 198   | 100     |                                                                               |
 | KuroTheCow           | Cow pattern fur                   | 1.0.3    | 300KB    | 24    | 10      |                                                                               |
@@ -119,7 +119,7 @@ Author -> Pack alphabetical sorting.
 | Localdumbass         | Synth reskin mod                  | 1.0.1    | 108KB    | 20    | 7       |                                                                               |
 | lonediggin           | LonesCosmeticPack                 | 1.0.0    | 89KB     | 37    | 15      |                                                                               |
 | LoopyLad             | ChipEyes                          | 1.0.0    | 4.67KB   | 6     | 3       |                                                                               |
-| LOREMASTER           | Aionios Pack                      | 1.3.0    | 116KB    | 108   | 56      |                                                                               |
+| LOREMASTER           | Aionios Pack                      | 1.4.1    | 147KB    | 136   | 70      | Author accidentally included V1.2.1 and V1.3.0 as of writing.                 |
 | LulaMoon             | LulaStoryPack                     | 1.0.0    | 746KB    | 5     | 6       |                                                                               |
 | MADragon261X         | OC Custom Content                 | 1.2.1    | 11.5KB   | 265   | 40      |                                                                               |
 | MalachiMoet          | Chang Hanaby Textures             | 1.0.0    | 11.5KB   | 14    | 9       |                                                                               |
@@ -154,6 +154,7 @@ Author -> Pack alphabetical sorting.
 | Pr0t0genos_El_T0stas | ConsuMadness                      | 1.9.5    | 70.2MB   | 298   | 88      |                                                                               |
 | Pr0t0genos_El_T0stas | Homestuckers                      | 1.0.2    | 1.83MB   | 2379  | 530     |                                                                               |
 | Pr0t0genos_El_T0stas | RandomnessPack                    | 5.2.1    | 46.3MB   | 3477  | 1145    |                                                                               |
+| RadioReaper          | Random Resources                  | 1.0.1    | 90.9KB   | 30    | 10      |                                                                               |
 | refrigerat0r         | fridgePack                        | 1.1.1    | 482KB    | 70    | 30      |                                                                               |
 | Riot                 | Riots Custom Eyes                 | 0.1.0    | 49.6KB   | 7     | 3       |                                                                               |
 | RockOn               | ClaimSkins                        | 1.1.3    | 278KB    | 32    | 13      |                                                                               |
@@ -177,7 +178,7 @@ Author -> Pack alphabetical sorting.
 | ShaleTheNecromancer  | Astoria Eyes of Legend Mod        | 1.0.1    | 10.5KB   | 8     | 3       |                                                                               |
 | ShaleTheNecromancer  | Astoria Mouths Mod                | 1.1.3    | 40.3KB   | 60    | 32      |                                                                               |
 | Shy_RP               | Foxs Witch Spells                 | 1.0.5    | 80.3KB   | 42    | 22      |                                                                               |
-| Shy_RP               | Shy Armory                        | 1.4.2    | 7.82MB   | 316   | 121     |                                                                               |
+| Shy_RP               | Shy Armory                        | 1.4.3    | 8.08MB   | 341   | 126     |                                                                               |
 | sillyzowie           | Dream Monster Faces               | 1.0.1    | 6.43MB   | 330   | 74      |                                                                               |
 | skittleskitsu        | Roses Lazily Named Pooltoy Mod    | 1.0.1    | 163KB    | 26    | 13      |                                                                               |
 | Skolls_Armory        | Skolls Armory                     | 1.2.4    | 1.13MB   | 83    | 44      |                                                                               |
@@ -226,7 +227,7 @@ Author -> Pack alphabetical sorting.
 | WawaTofu             | Haversack Of Everything           | 1.6.5    | 27.2MB   | 748   | 314     |                                                                               |
 | WawaTofu             | Mess of Everything                | 1.1.6    | 11MB     | 487   | 211     |                                                                               |
 | WawaTofu             | Roleplayer Toolbox                | 0.1.0    | 2.07MB   | 91    | 47      |                                                                               |
-| WeafyAnna            | WeafyAnnas Greenery               | 1.0.3    | 287KB    | 77    | 22      |                                                                               |
+| WeafyAnna            | WeafyAnnas Greenery               | 1.1.0    | 443KB    | 98    | 25      |                                                                               |
 | WilsonHough          | Minecraftpack                     | 1.0.5    | 198KB    | 30    | 17      | CustomQuests pack.                                                            |
 | WolfKann             | Heros contrabands                 | 0.0.6    | 1.19MB   | 41    | 17      |                                                                               |
 | WolfKann             | WolfKann CapeCompanions           | 0.0.4    | 1.06MB   | 122   | 49      |                                                                               |

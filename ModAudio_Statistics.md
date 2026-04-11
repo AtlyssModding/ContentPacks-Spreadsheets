@@ -16,9 +16,10 @@ Author -> Pack alphabetical sorting,
 | BigLincoln             | BigLincolnsBangerMusicPack_Mod                     | 1.0.0   | 71.3MB | 22    | Duplicate.                            |
 | BottomHeavyBalahon     | RandomSounds                                       | 0.0.1   | 25.7MB | 22    |                                       |
 | bubbers                | ULTRAKILL Music Swap                               | 1.3.1   | 624MB  | 37    |                                       |
-| Conductris             | iKleins Variety Mixtape                            | 1.3.7   | 641MB  | 131   |                                       |
+| BigCBlu                | True Legendary Hero Bat                            | 3.1.0   | 81.5KB | 3     | Homebrewery pack.                     |
+| Conductris             | iKleins Variety Mixtape                            | 1.4.0   | 496MB  | 134   |                                       |
 | cultofchorry           | MetalGearRisingRevengeanceMusicandSfx              | 1.1.1   | 118MB  | 115   | Unnecessary Bepinex Fixer dependency. |
-| Clank                  | Skylanders Music Mod                               | 1.0.3   | 115MB  | 35    |                                       |
+| Clank                  | Skylanders Music Mod                               | 1.0.4   | 138MB  | 35    |                                       |
 | Dr_W0rm                | DevilMayCry3Music                                  | 1.0.1   | 85MB   | 21    |                                       |
 | Dr_W0rm                | DotHackMusic                                       | 1.0.2   | 185MB  | 36    |                                       |
 | Dr_W0rm                | FolkandShantyMusic                                 | 1.0.1   | 99.5MB | 21    |                                       |
@@ -38,12 +39,15 @@ Author -> Pack alphabetical sorting,
 | Embox                  | PizzaTowerBlockSFX                                 | 1.0.0   | 30.2KB | 3     |                                       |
 | fluffybuttomboys       | Skytlyss                                           | 1.0.0   | 76MB   | 25    |                                       |
 | fuzzyblackcat          | SqueakyButt                                        | 1.0.1   | 307KB  | 23    |                                       |
-| HunterTR               | Atlyss_Fiesta                                      | 1.5.0   | 87.7MB | 30    |                                       |
+| Galaxyof_Darknes       | TerrariaMusic                                      | 1.0.0   | 139MB  | 31    |                                       |
+| HunterTR               | Atlyss Fiesta                                      | 1.5.0   | 87.7MB | 30    |                                       |
 | IteratorGang           | Mithrix Heavy Weapon Sounds                        | 1.0.0   | 290KB  | 11    |                                       |
+| Ithra                  | TESIV Audio Mod                                    | 1.0.0   | 81.4MB | 30    | Spread across 2 folders.              |
 | Ithra                  | Vanilla Music Pack                                 | 1.0.0   | 1.1KB  | 1     |                                       |
 | ItsNergante            | Earthmover Boss Music                              | 1.0.0   | 9.35MB | 2     |                                       |
 | ItsNergante            | Metal Pipe hit sound replacement                   | 1.0.0   | 66.6KB | 2     |                                       |
 | Jacobyippee            | Selection Music FFXIVO Prelude Discoveries         | 1.0.0   | 106MB  | 2     |                                       |
+| Karukunya              | Nine Sols Parry Sound                              | 1.0.1   | 16.2KB | 2     |                                       |
 | Kasandryx              | ATLYSS x DELTARUNE OST Replacement                 | 1.1.1   | 42.3MB | 32    |                                       |
 | Kasandryx              | Blunt Rotation                                     | 1.0.0   | 68.7MB | 35    |                                       |
 | KikiKoi                | DarkSouls parrysound                               | 1.7.0   | 35.1KB | 2     | Modpack, be wary of downgrades.       |
@@ -51,7 +55,7 @@ Author -> Pack alphabetical sorting,
 | Lotusaurora            | Lisas classic SFX replacer                         | 1.5.0   | 1.18MB | 28    |                                       |
 | Lotusaurora            | Lisas Diablo 2 SFX replacer                        | 1.1.0   | 448KB  | 18    |                                       |
 | Marioalexsan           | Combat Audio Pack                                  | 1.1.0   | 7.44MB | 6     |                                       |
-| Marioalexsan           | ModAudio                                           | 4.1.2   | 1.74MB | 1     | & Knuckles.                           |
+| Marioalexsan           | ModAudio                                           | 4.4.0   | 1.76MB | 4     | & Knuckles.                           |
 | MeatyMouse             | Pokemon Critical Health Alarm                      | 1.0.0   | 152KB  | 2     |                                       |
 | MeatyMouse             | You are dead                                       | 1.0.0   | 1.17MB | 10    |                                       |
 | NatRobloxian           | Blackoutrevivalmenumusic                           | 1.0.1   | 5.71MB | 3     |                                       |
@@ -84,13 +88,16 @@ Author -> Pack alphabetical sorting,
 | RockOn                 | BerserkMusic                                       | 1.0.1   | 336MB  | 21    | Includes like 3MB of PNG files.       |
 | RockOn                 | BurningMensSoulOverSanctum                         | 1.0.0   | 46.8MB | 3     |                                       |
 | RockOn                 | ChronoCrossMusic                                   | 1.0.0   | 344MB  | 24    |                                       |
-| RockOn                 | Deltarune Music Mod RockOn Ver                     | 1.0.5   | 56.4MB | 35    |                                       |
+| RockOn                 | Deltarune Music Mod RockOn Ver                     | 1.0.6   | 24.0MB | 35    |                                       |
+| RockOn                 | DeltaruneSFX                                       | 1.0.0   | 158KB  | 25    | Spread across 2 folders.              |
+| RockOn                 | UnemployedMusic                                    | 1.0.0   | 21.4MB | 22    |                                       |
 | RockOn                 | DeltaruneSplat                                     | 1.0.0   | 16.8KB | 2     |                                       |
 | RockOn                 | GoldenSunMusic                                     | 1.1.1   | 73.1MB | 35    |                                       |
 | RockOn                 | IsaacMusicMod                                      | 1.1.0   | 393MB  | 24    |                                       |
-| RockOn                 | KingdomHeartsCombatSFX                             | 1.0.0   | 57.9KB | 5     |                                       |
-| RockOn                 | KingdomHeartsMenuSFX                               | 1.0.1   | 101KB  | 13    |                                       |
-| RockOn                 | KingdomHeartsMusic                                 | 1.1.4   | 95MB   | 35    |                                       |
+| RockOn                 | JujutsuKaisenMusicMod                              | 1.0.0   | 29.9MB | 36    |                                       |
+| RockOn                 | KingdomHeartsCombatSFX                             | 1.5.1   | 163KB  | 12    |                                       |
+| RockOn                 | KingdomHeartsMenuSFX                               | 1.5.0   | 99.5KB | 14    |                                       |
+| RockOn                 | KingdomHeartsMusic                                 | 1.1.6   | 49.3MB | 45    |                                       |
 | RockOn                 | LooseCannon                                        | 1.0.1   | 97KB   | 4     |                                       |
 | RockOn                 | MegaManMusic                                       | 1.1.2   | 81MB   | 35    |                                       |
 | RockOn                 | MemeVanishSFX                                      | 1.0.1   | 254KB  | 4     |                                       |
@@ -98,8 +105,10 @@ Author -> Pack alphabetical sorting,
 | RockOn                 | PersonaMusic                                       | 1.2.0   | 38.7MB | 35    |                                       |
 | RockOn                 | PhantasyStarOnlineMusic                            | 1.1.0   | 35.3MB | 30    |                                       |
 | RockOn                 | PokemonMysteryDungeonEOSMusic                      | 1.0.0   | 291MB  | 21    |                                       |
+| RockOn                 | PoonVilleKHMusicMod                                | 1.0.2   | 3.93MB | 5     |                                       |
 | RockOn                 | RandomCritSFX                                      | 1.0.1   | 160KB  | 12    |                                       |
 | RockOn                 | ScarletNexusMusic                                  | 1.1.0   | 387MB  | 24    |                                       |
+| RockOn                 | SilentSkills                                       | 1.0.0   | 4.19KB | 2     |                                       |
 | RockOn                 | Super Smash Bros Brawl Subspace Emissary Music Mod | 1.0.0   | 297MB  | 22    |                                       |
 | RockOn                 | UndertaleKillSFX                                   | 1.0.0   | 295KB  | 2     |                                       |
 | RockOn                 | ZeldaOOTMusic                                      | 1.0.0   | 46.7MB | 25    |                                       |
@@ -112,8 +121,8 @@ Author -> Pack alphabetical sorting,
 | Sparkyblue             | Shantae GBC Musicpack                              | 1.1.3   | 22.6MB | 25    |                                       |
 | Sparkyblue             | Shantae Riskys Revenge Music Pack                  | 1.0.0   | 71.5MB | 25    |                                       |
 | Sparkyblue             | Shantae Riskys Revolution Music Pack               | 1.1.2   | 53.2MB | 24    |                                       |
-| Sparkyblue             | Sparkyblues Homebrew Collection                    | 1.3.3   | 258KB  | 2     | Homebrewery pack.                     |
-| SparkyChu              | PokemonMysteryDungeonEOSMusic                      | 1.2.2   | 191MB  | 35    |                                       |
+| Sparkyblue             | Sparkyblues Homebrew Collection                    | 1.3.5   | 258KB  | 2     | Homebrewery pack.                     |
+| SparkyChu              | PokemonMysteryDungeonEOSMusic                      | 1.3.1   | 184MB  | 35    |                                       |
 | starjo                 | musicreplacer mod                                  | 1.0.0   | 106MB  | 22    |                                       |
 | Stoingularity          | Sybil Clothes                                      | 3.2.0   | 266KB  | 7     | Homebrewery pack.                     |
 | Studio_LuckyFoxy       | ZeldaTP music mod                                  | 1.0.0   | 48.8MB | 27    |                                       |
@@ -137,7 +146,7 @@ Author -> Pack alphabetical sorting,
 | Terraria8767           | ImNotGonnaSugarcoatIt                              | 1.0.1   | 71.7KB | 2     |                                       |
 | TheLighthouse          | Digimon World 4 OST Mod                            | 1.2.1   | 389MB  | 36    |                                       |
 | TheMariBox             | Sonic x Atlyss Music Pack                          | 1.0.0   | 137MB  | 23    |                                       |
-| The_Queue_Of_Em        | QM Armory                                          | 1.1.0   | 294KB  | 41    | Homebrewery pack.                     |
+| The_Queue_Of_Em        | QM Armory                                          | 1.3.0   | 294KB  | 41    | Homebrewery pack.                     |
 | ThiroAssets            | Deepwoken Sound And Music Swap                     | 1.0.1   | 132MB  | 72    |                                       |
 | TZH                    | Clandestine ContentPack                            | 1.2.3   | 1.12MB | 29    | Homebrewery pack.                     |
 | TZH                    | Deaths Door Audio                                  | 1.0.1   | 294MB  | 682   | Spread across 2 folders.              |
@@ -145,19 +154,20 @@ Author -> Pack alphabetical sorting,
 | Vixine                 | Vixines Chaos Soundpack                            | 1.0.0   | 916MB  | 2050  |                                       |
 | Wackkity               | AtlyssDD2Musicreplacement                          | 1.0.0   | 65.9MB | 8     |                                       |
 | Wackkity               | AtlyssPLAP                                         | 1.0.0   | 73.6KB | 2     |                                       |
-| WolfKann               | WolfKann Skins                                     | 1.8.9   | 118KB  | 6     | Homebrewery pack.                     |
+| WolfKann               | WolfKann Skins                                     | 2.1.4   | 118KB  | 6     | Homebrewery pack.                     |
 | wewewe                 | kirby music replacement                            | 3.2.0   | 458MB  | 44    |                                       |
 | widealloy833           | atlyne miami                                       | 1.1.2   | 275MB  | 44    |                                       |
 | Zazbix                 | Project Atlyss                                     | 1.0.0   | 3.01GB | 201   |                                       |
-| ZeinaKC                | Sexual Sounds Pack                                 | 0.2.2   | 13.9MB | 206   | Spread across 10 folders.             |
-| ZeinaKC                | Suki Nipps Moans                                   | 1.0.0   | 58.9KB | 4     |                                       |
+| xern1818               | FreedomPlanetMusic                                 | 1.0.0   | 110MB  | 35    |                                       |
+| ZeinaKC                | Sexual Sounds Pack                                 | 0.3.1   | 1.21MB | 206   | Spread across 10 folders.             |
+| ZeinaKC                | Suki Nipps Moans                                   | 1.0.1   | 39.5KB | 4     | Homebrewery pack.                     |
 | ZeinaKC                | ChangKaBang OST Pack                               | 1.0.0   | 80.2MB | 18    | Spread across 2 folders.              |
 | ZeinaKC                | Funger Combat Pack                                 | 1.0.1   | 18.3MB | 18    | Spread across 2 folders.              |
-| ZeinaKC                | Vanilla Music Improved                             | 1.0.4   | 8.81KB | 3     | Spread across 2 folders.              |
+| ZeinaKC                | Vanilla Music Improved                             | 1.0.4   | 8.13KB | 4     |                                       |
 | ZenFishes              | Atlyss But Its Unreal                              | 1.0.3   | 75.5MB | 20    | Spread across 2 folders.              |
-| ZenFishes              | AtlyssPLAP The Sequel                              | 1.0.4   | 455KB  | 6     |                                       |
-| ZenFishes              | Breaking Batlyss                                   | 1.0.1   | 55.2KB | 3     |                                       |
-| ZenFishes              | Rain World Themes                                  | 1.0.0   | 37.6MB | 10    |                                       |
-| ZenFishes              | Zera Atlyss Remix                                  | 3.3.0   | 136MB  | 36    | Spread across 4 folders.              |
+| ZenFishes              | AtlyssPLAP The Sequel                              | 1.0.7   | 455KB  | 6     |                                       |
+| ZenFishes              | Breaking Batlyss                                   | 1.0.2   | 55.2KB | 3     |                                       |
+| ZenFishes              | Rain World Themes                                  | 1.0.1   | 37.6MB | 10    |                                       |
+| ZenFishes              | Zera Atlyss Remix                                  | 3.3.2   | 184MB  | 49    | Spread across 6 folders.              |
 | ZenFishes              | Zera Project Music                                 | 1.0.1   | 108MB  | 13    |                                       |
 | Author                 | Pack                                               | version | Size   | Files | Additional notes                      |
