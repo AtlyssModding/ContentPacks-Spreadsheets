@@ -7,7 +7,7 @@ The information is gathered by checking "Properties" on MapBundles files & Asset
 
 Author -> Map alphabetical sorting.
 | Author           | Map                         | Version | MapBundle | Uncompressed | Additional notes                                                                        |
-| ---------------- | --------------------------- | ------- | --------- | ------------ | ---------------------=----------------------------------------------------------------- |
+| ---------------- | --------------------------- | ------- | --------- | ------------ | --------------------------------------------------------------------------------------- |
 | Bay              | Medieval Springs            | 0.4.3   | 19MB      | 199MB        | Unity: 2022.3.62f2 / Misc: 3.02KB / Bad light rendering optimisation tanks performance. |
 | Bippuit          | Dragon Roost Island         | 1.0.1   | 14.9MB    | 16.1MB       | Unity: 2021.3.16f1 / Misc: 5.79KB                                                       |
 | CuddlyDragon     | Effold Terrace FFA          | 1.0.0   | 3.48MB    | 8.79MB       | Unity: 2021.3.16f1 / Misc: 2.13KB                                                       |
