@@ -14,7 +14,8 @@ OS and Game on NVME SSD (Kingston SNVV2S1000G)
 3. Loaded single player, checked RAM and CPU via Resource monitor, FPS vis steam overlay. 
 4. Alt+F4, waited until game was cleared from ram to start next test.
 
-## Resource Usage & Test Results
+# Resource Usage & Test Results
+## Regular Hosting
 <details><summary><b>Vanilla</b></summary>
 
 - **Time to Main Menu from start**
@@ -160,7 +161,8 @@ FPS seems a lot more stable too, highs are higher but lows are not nearly as low
   - `113`
 </details>
 
-## Headless Testing
+#
+## Headless Hosting
 Headless loads Sanctum and places a ghost character there so CPU/RAM usage is comprable to above Sanctum results.\
 Headless ARGs: `-batchmode -nographics -server -hostsave 0 -password "Pass"`
 <details><summary><b>Vorny Modpack</b></summary>
@@ -225,6 +227,7 @@ Cold start first trail so 6 tests intstead.
   - `8.88%`
 </details>
 
+#
 ## The Brutaliser™
 Brutaliser removes all `.PNG`, `.MP3`, `.OGG`, `.WAV`, `.LUA`, `.GLB` (3D Meshes), Skins, and more leaving files in the most minimal state to operate stabily as possible. Removes mod specific files not in use like CustomQuest files and .PropBundles.
 
