@@ -43,6 +43,6 @@ Author -> Map alphabetical sorting.
 | ZenFishes        | Fray Fields Social          | 1.3.2   | 64.2MB    | 154MB        | Unity: 2022.3.62f2                                                                      |
 | ZenFishes        | Green Screen World          | 1.0.0   | 404KB     | 2.5MB        | Unity: 2022.3.62f2                                                                      |
 | ZenFishes        | Starlight Magistics Academy | 1.7.5   | 19MB      | 57.6MB       | Unity: 2022.3.62f2                                                                      |
-| ZenFishes        | The Rise of PoonVille       | 2.1.0   | 51.2MB    | 274MB        | Unity: 2022.3.62f2                                                                      |
+| ZenFishes        | The Rise of PoonVille       | 3.0.0   | 51.2MB    | 274MB        | Unity: 2022.3.62f2                                                                      |
 | ZweiHanda        | Distant Memory              | 0.2.4   | 9.30MB    | 19.1MB       | Unity: 2022.3.62f2                                                                      |
 | Author           | Map                         | Version | MapBundle | Uncompressed | Additional notes                                                                        |
